@@ -1,0 +1,12 @@
+Student_ID,Student_Name,Age,Department,Attendance,Marks,Study_Hours
+101,anu,20.0,cse,85.0,85.0,3.0
+102,rahul,21.0,ise,90.0,90.0,4.0
+103,priya,20.0,cse,78.0,78.0,2.0
+104,sneha,22.0,cse,95.0,95.0,5.0
+105,arun,21.0,ece,80.0,80.0,3.0
+106,meena,21.0,ise,85.81818181818181,88.0,4.0
+107,kiran,20.0,cse,88.0,92.0,3.727272727272727
+108,divya,22.0,ece,92.0,105.0,6.0
+109,ravi,21.0,ise,75.0,75.0,2.0
+110,pooja,20.0,cse,89.0,89.0,3.0
+112,asha,23.0,cse,82.0,89.0,5.0
